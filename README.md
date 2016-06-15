@@ -10,7 +10,7 @@ Splat AIO comes with default 'max this' scripts, a safe variant of Octohax which
 [Java](https://java.com/) for Colorizer.
 
 #### Usage
-Start "All In One Turbo.py" and the rest should be fairly self-explanatory.
+Start "Splat-AIO.py" and the rest should be fairly self-explanatory.
 
 
 #### Updating
