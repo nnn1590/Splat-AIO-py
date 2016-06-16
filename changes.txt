@@ -15,4 +15,4 @@ bit, or get the files yourself (look at the readme).
 Also, if the folder you're keeping Splat AIO in contains
 spaces or other characters Python has troubles recognizing
 when it's asked to reboot, you will crash out when Splat AIO
-tries to reboot itself. Oops.
+tries to reboot itself at the end. Oops.
