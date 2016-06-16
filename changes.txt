@@ -6,3 +6,8 @@ rank back anymore after changing your mind.
 credits in.
 
 -Made the options menu slightly less ugly.
+
+Github, urllib, my internet connection or some combination
+of the three make this process a bit... unstable in terms
+of speed. If it seems to freeze. just... leave it for a
+bit, or get the files yourself (look at the readme).
