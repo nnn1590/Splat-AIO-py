@@ -1,8 +1,8 @@
--Make rank/level/money freely selectable
+-Rank, level, money and snails are now freely choosable.
+That means you don't need to ask how to change your
+rank back anymore after changing your mind.
 
--Add dangerous hax that you should never mess with online
-if you like having internet access on your Wii U,
-& make them double confirm before actually going in
+-A REALLY PROFESSIONAL placeholder for when I put
+credits in.
 
--Add ability to set HBL Gecko as default instead of Loadiine
-Gecko
+-Made the options menu slightly less ugly.
