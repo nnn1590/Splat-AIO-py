@@ -1,4 +1,4 @@
-## Splat AIO
+## [Splat AIO](https://drive.google.com/open?id=0B0nb9ec6yT63VFRTbXVPaGdiVk0)
 A simple python script (key word "simple") to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/).
 
 If there is something contained in here that shouldn't be, let me know and I'll remove it.
