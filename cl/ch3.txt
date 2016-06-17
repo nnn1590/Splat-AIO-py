@@ -4,7 +4,8 @@ try and keep saves safe. You can still get level-
 up gear by speaking to Judd with a high enough level.
 
 -- Added the ability to change your Mii's name to what-
-ever you want. And with it, an Otherhax category.
+ever you want. In the future when more hacks like this
+come up, this will be put in an 'Otherhax' menu.
 
 -- Using the update option now leads to
 ./Resources/run/extra/update_beta2.py . It's
