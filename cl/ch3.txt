@@ -3,14 +3,14 @@ special gear (like Splatfest Tee) for now, to
 try and keep saves safe. You can still get level-
 up gear by speaking to Judd with a high enough level.
 
+-- Added the ability to change your Mii's name to what-
+ever you want. And with it, an Otherhax category.
+
 -- Using the update option now leads to
 ./Resources/run/extra/update_beta2.py . It's
 much less vague in what it's doing, and won't start
 changing the currently existing /run/ folder until
-it's finished downloading what it needs to. If it
-says it's downloading, it's still downloading and
-you're safe to stop it. There's still some holes
-that need patching up though.
+it's finished downloading what it needs to.
 
 -- Preparing to give you the option to view a list of
 changes from the past so you don't get lost.
