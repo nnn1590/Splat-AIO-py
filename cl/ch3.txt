@@ -3,9 +3,7 @@ special gear (like Splatfest Tee) for now, to
 try and keep saves safe. You can still get level-
 up gear by speaking to Judd with a high enough level.
 
--- Added the ability to change your Mii's name to what-
-ever you want. In the future when more hacks like this
-come up, this will be put in an 'Otherhax' menu.
+-- Spoiler alert, that's the only actual change.
 
 -- I tried to make a better updater, but then I realized
 that I can only easily make changes to the /run/ folder,
