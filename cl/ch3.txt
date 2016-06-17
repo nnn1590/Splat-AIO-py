@@ -7,11 +7,11 @@ up gear by speaking to Judd with a high enough level.
 ever you want. In the future when more hacks like this
 come up, this will be put in an 'Otherhax' menu.
 
--- Using the update option now leads to
-./Resources/run/extra/update_beta2.py . It's
-much less vague in what it's doing, and won't start
-changing the currently existing /run/ folder until
-it's finished downloading what it needs to.
+-- I tried to make a better updater, but then I realized
+that I can only easily make changes to the /run/ folder,
+and since everything in there gets deleted in the process
+of updating... the updater gets deleted midway through.
+...Kinda my fault, I made it work that way on purpose.
 
 -- Preparing to give you the option to view a list of
 changes from the past so you don't get lost.
