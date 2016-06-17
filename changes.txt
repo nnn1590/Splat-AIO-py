@@ -1,18 +1,17 @@
--Rank, level, money and snails are now freely choosable.
-That means you don't need to ask how to change your
-rank back anymore after changing your mind.
+-- All Gear only gives you non-levelup and non-
+special gear (like Splatfest Tee) for now, to
+try and keep saves safe. You can still get level-
+up gear by speaking to Judd with a high enough level.
 
--A REALLY PROFESSIONAL placeholder for when I put
-credits in.
+-- Spoiler alert, that's the only actual change.
 
--Made the options menu slightly less ugly.
+-- I tried to make a better updater, but then I realized
+that I can only easily make changes to the /run/ folder,
+and since everything in there gets deleted in the process
+of updating... the updater gets deleted midway through.
+...Kinda my fault, I made it work that way on purpose.
 
-Github, urllib, my internet connection or some combination
-of the three make this process a bit... inconsistent in terms
-of speed. If it seems to freeze. just leave it for a
-bit, or get the files yourself (look at the readme).
+-- Preparing to give you the option to view a list of
+changes from the past so you don't get lost.
 
-Also, if the folder you're keeping Splat AIO in contains
-spaces or other characters Python has troubles recognizing
-when it's asked to reboot, you will crash out when Splat AIO
-tries to reboot itself at the end. Oops.
+-- Still no credits yet. q.q
