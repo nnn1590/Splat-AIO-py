@@ -1,0 +1,8 @@
+- Now with the Colorizer that actually works and the
+Amiibohax that works with CosmoCortney Gecko
+
+- ...which I think I'm going to have to change all
+of the HBL scripts to work with, but not right
+now. I still need to do the changelog list, too.
+
+- 2/10 IGN credits
