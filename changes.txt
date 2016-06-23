@@ -1,8 +1,8 @@
-- Now with the Colorizer that actually works and the
-Amiibohax that works with CosmoCortney Gecko
+- Now with crappy changelog list.
 
-- ...which I think I'm going to have to change all
-of the HBL scripts to work with, but not right
-now. I still need to do the changelog list, too.
+- HBL scripts should work with CosmoCortney Gecko, so get that one
+if you're using the one from the self-hosting thread...
 
-- 2/10 IGN credits
+- ...except for All Weapons, which was being weird and since I
+don't have the time to look at it right now I disabled it for a
+bit.
