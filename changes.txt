@@ -1,7 +1,8 @@
 - Now with crappy changelog list.
 
 - HBL scripts should work with CosmoCortney Gecko, so get that one
-if you're using the one from the self-hosting thread...
+from the "Post Your Wii U Cheat Codes Here!" thread if you're using 
+the one from the self-hosting thread...
 
 - ...except for All Weapons, which was being weird and since I
 don't have the time to look at it right now I disabled it for a
