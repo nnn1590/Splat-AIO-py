@@ -6,4 +6,4 @@ the one from the self-hosting thread...
 
 - ...except for All Weapons, which was being weird and since I
 don't have the time to look at it right now I disabled it for a
-bit. Use Loadiine.ovh's Gecko if you want to use that for right now.
+bit. Use Loadiine.ovh's Gecko if you want to use that.
