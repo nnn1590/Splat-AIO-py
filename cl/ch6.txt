@@ -1,0 +1,5 @@
+- Now with quote-unquote "built in" yamlconv and SARCtools. Look
+in the Tools menu.
+
+- Sisterhax. Now you may fulfill all of your wildest dreams.
+Well, at least the ones that involved duplicating Marie.
