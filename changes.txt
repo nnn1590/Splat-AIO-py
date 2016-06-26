@@ -1,9 +1,6 @@
-- Now with crappy changelog list.
+- Now with quote-unquote "built in" yamlconv and SARCtools. Look
+in the Tools menu.
 
-- HBL scripts should work with CosmoCortney Gecko, so get that one
-from the "Post Your Wii U Cheat Codes Here!" thread if you're using 
-the one from the self-hosting thread...
-
-- ...except for All Weapons, which was being weird and since I
-don't have the time to look at it right now I disabled it for a
-bit. Use Loadiine.ovh's Gecko if you want to use that.
+- Sisterhax. Now you may fulfill all of your wildest dreams.
+Well, at least the ones that involved duplicating Marie.
+Or Callie. Whoever..
