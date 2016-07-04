@@ -1,4 +1,5 @@
--Gecko DotNet should work a little bit better now. Hopefully.
+-Gecko DotNet should work a little bit better now for 5.5.x.
+Hopefully.
 
 -You can run Gecko and Cafiine at the same time now, just
 as a bit of a notice. go to [ http://tinyurl.com/geckiine ]
