@@ -1,6 +1,7 @@
-- Now with quote-unquote "built in" yamlconv and SARCtools. Look
-in the Tools menu.
+-Gecko DotNet should work a little bit better now. Hopefully.
 
-- Sisterhax. Now you may fulfill all of your wildest dreams.
-Well, at least the ones that involved duplicating Marie.
-Or Callie. Whoever..
+-You can run Gecko and Cafiine at the same time now, just
+as a bit of a notice. go to [ http://tinyurl.com/geckiine ]
+if you're interested in doing that (it means OctoSFX + Octohax!)
+
+-..that's all, the Gecko thing was bothering me *that* much
