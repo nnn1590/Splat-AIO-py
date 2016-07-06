@@ -1,9 +1,4 @@
--Gecko DotNet should work a little bit better now for 5.5.x.
-Hopefully.
+- Most things, except Colorizer, now work for 2.9.0 and Loadiine.ovh's
+new Gecko offset.
 
--You can run Gecko and Cafiine at the same time now, just
-as a bit of a notice. go to [ http://tinyurl.com/geckiine ]
-if you're interested in doing that (it means OctoSFX + Octohax!)
-
--..that's all, the Gecko thing was bothering me *that* much.
-Was too lazy to even add this update to the list for now.
+- ...Probably.
