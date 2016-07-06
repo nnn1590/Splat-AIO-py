@@ -1,0 +1,4 @@
+- Most things, except Colorizer, now work for 2.9.0 and Loadiine.ovh's
+new Gecko offset.
+
+- ...Probably.
