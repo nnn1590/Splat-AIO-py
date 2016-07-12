@@ -1,0 +1,4 @@
+-Import Deck of Noob's edits.
+
+-Turns out Loadiine didn't change anything and I'm just
+an idiot. I need to change the HBL scripts later
