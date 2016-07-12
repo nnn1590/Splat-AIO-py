@@ -1,4 +1,5 @@
-- Most things, except Colorizer, now work for 2.9.0 and Loadiine.ovh's
-new Gecko offset.
+-Import Deck of Noob's edits.
 
-- ...Probably.
+-Turns out Loadiine didn't change anything and I'm just
+an idiot. I need to change the HBL scripts later
+
