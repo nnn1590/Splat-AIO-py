@@ -1,0 +1,8 @@
+-OVH and HBL scripts use the same scripts now to make my life easier
+
+-OS X/Linux should clear the screen correctly now
+
+-...that's it
+
+-Dangerous Octohax soon because apparently it might not be as dangerous
+as we were led to believe
