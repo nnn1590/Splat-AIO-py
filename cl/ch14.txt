@@ -1,0 +1,1 @@
+-Fixed a bug where "now owned by Deck of Noobs and MCMiners9" wouldn't show.
