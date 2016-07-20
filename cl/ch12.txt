@@ -1,0 +1,5 @@
+Time for another update!
+-Fixed problem where when user views changelog, the
+AIO grabs the changelog from Seresaa's GitHub
+instead of from MCMiners9's GitHub.
+-I just felt like updating ;)
