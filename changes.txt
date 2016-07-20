@@ -1,4 +1,1 @@
-Another update...ALREADY?!
--Replaced "edits by Deck of Noobs and MCMiners9 with
-"now owned by Deck of Noobs and MCMiners9"
--That's it!
+-Fixed a bug where "now owned by Deck of Noobs and MCMiners9" wouldn't show.
