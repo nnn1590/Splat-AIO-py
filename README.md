@@ -22,4 +22,4 @@ It's in the options menu, will show a sort of changelog from changes.txt, and wi
 This AIO will automatically check for updates each time it is ran. If an update is found please download it.
 
 #### Bug Testing
-There is a feature in the AIO that lets you test the newer GUI version of the AIO. Just press E then ENTER to launch it. Report any bugs to the Splatoon Modding Hub and seresaa [Contact Seresaa](https://github.com/seresaa).
+There is a feature in the AIO that lets you test the newer GUI version of the AIO. Just press E then ENTER to launch it. Report any bugs to the Splatoon Modding Hub and seresaa. [Contact Seresaa](https://github.com/seresaa).
