@@ -1,9 +1,5 @@
--OVH and HBL scripts use the same scripts now to make my life easier
-
--OS X/Linux should clear the screen correctly now
-
--...that's it
-
--Dangerous Octohax soon because it might not be as dangerous
-as we were led to believe
-...still basically useless online though
+Now me and DeckOfNoobs are in charge of this AIO.
+-Re added MusicRandomizer
+-Added a line of code that auto checks for updates each time Splat-AIO.py is launched
+-Added BrawlBox
+-Added an option to beta test the new SplatAIO 2 (now with a GUI!)
