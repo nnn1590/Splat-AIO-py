@@ -1,1 +1,1 @@
--I don't even know, It was because of GitHub.
+-Fixed a bug that crashed the AIO when user tried to view a changelog.
