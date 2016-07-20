@@ -1,5 +1,5 @@
-Now me and DeckOfNoobs are in charge of this AIO.
--Re added MusicRandomizer
--Added a line of code that auto checks for updates each time Splat-AIO.py is launched
--Added BrawlBox
--Added an option to beta test the new SplatAIO 2 (now with a GUI!)
+Time for another update!
+-Fixed problem where when user views changelog, the
+AIO grabs the changelog from Seresaa's GitHub
+instead of from MCMiners9's GitHub.
+-I just felt like updating ;)
