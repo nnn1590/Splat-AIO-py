@@ -1,6 +1,8 @@
 ## MCMiners9's and DeckOfNoobs's Python Splat AIO ([Download](https://github.com/MCMiners9/Splat-AIO/releases))
 A collection of easy python scripts to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/post-your-wiiu-cheat-codes-here.395443/).
 
+![AIO](https://github.com/MCMiners9/Splat-AIO-2/blob/html/SplatAIO/buildTools/python%20aio.PNG)
+
 If there is something contained in here that shouldn't be, let me know and I'll remove it.
 
 Splat AIO comes with rank/snail/level/money editors, All Gear and All Weapons, [a safe variant of Octohax](https://github.com/wiiudev/pyGecko/blob/master/octoling.py) which is essentially a model swap of the Inkling Girl, [Splatoon Colorizer](https://gbatemp.net/threads/splatoon-colorizer.406463/), [Splathax and Amiibohax](https://gbatemp.net/threads/splatoon-modding-hub.425670/page-47#post-6344607). It also comes with a few other tools (TCPGecko dotNET, Wireless Network Watcher, SARCTools, yamlconv..) to make life easier.
