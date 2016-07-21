@@ -1,4 +1,6 @@
--Removed the Colorizer files, its broken anyways.
--Dangeroud Octohax soon because it doesn't ruin save files anymore!
--OctoSFX should also be coming soon!
--So should Splat3D Map Editor, hopefully!
+-Added files for Timerhax. Timerhax lets you edit the timer for Rekon, Battle Dojo, and amiibo challenges.
+-Placed a option placeholder for timerhax, coming soon!
+-Still waiting for Dangerous Octohax to be updated. Still waiting...
+-Trying to find out how to make Splat3D work since you can execute it with 5
+different python addons. Which is confusing for you guys.
+-Good luck to you all for the final Splatfest, and use hacks responsibly! ;)
