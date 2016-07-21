@@ -1,7 +1,7 @@
 ## MCMiners9's and DeckOfNoobs's Python Splat AIO ([Download](https://github.com/MCMiners9/Splat-AIO/releases))
 A collection of easy python scripts to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/post-your-wiiu-cheat-codes-here.395443/).
 
-![AIO](http://imgur.com/a/nlSgH)
+![Python SplatAIO](http://imgur.com/a/nlSgH)
 
 If there is something contained in here that shouldn't be, let me know and I'll remove it.
 
