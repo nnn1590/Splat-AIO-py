@@ -1,2 +1,4 @@
--Fixed a misspelling that caused Changelog to crash.
--Added the v17 changelog to the Changelog list in the AIO.
+-Removed the Colorizer files, its broken anyways.
+-Dangeroud Octohax soon because it doesn't ruin save files anymore!
+-OctoSFX should also be coming soon!
+-So should Splat3D Map Editor, hopefully!
