@@ -1,0 +1,3 @@
+-Removed code for Colorizer, its unsafe and broken anyways.
+-Dangerous Octohax soon because it doesn't corrupt saves anymore!
+-Might add Splat3D Map Editor and OctoSFX.
