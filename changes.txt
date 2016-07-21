@@ -1,2 +1,4 @@
--Implemented Timerhax.
--This also marks the 20th revision of the Splat-AIO! We've come a long way!
+-Added v20 and v21 changelog to AIO
+-Fixed bug where an update check would run twice upon running Splat-AIO.py (download new Splat-AIO.zip
+to fix)
+-Added a newer version of GeckoMapTester, now supports changing the background/scene!
