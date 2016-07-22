@@ -1,4 +1,4 @@
-#### Frequently Asked Questions
+#### Frequently Asked Questions and Help
 
 Q: The AIO won't run the script I selected
 
@@ -24,3 +24,19 @@ Q: How could I be of assistance to this project?
 
 A: If you wanna help, thanks! To help, you need to become a beta tester. Go to the link at the very bottom of
 [this page](https://github.com/MCMiners9/Splat-AIO) titled "MCMiners9's and Deck of Noobs's Discord Server to apply.
+
+#### Updating your IP address in the AIO.
+
+If you are encountering IP address errors, follow these steps:
+
+1. Check to make sure you are on the same network as your Wii U.
+
+2. Run a IP scanner program, there's one that comes with the SplatAIO.
+
+3. Look for your Wii U's IP address.
+
+4. Go into SplatAIO, press V for Options, then 1 to edit your IP.
+
+5. Enter your new IP into the AIO.
+
+6. Exit and re-launch the AIO. Your IP should now be updated.
