@@ -1,3 +1,5 @@
+#### Frequently Asked Questions
+
 Q: The AIO won't run the script I selected
 
 A: Check to see if your IP is correct, if it is, try checking your network connection and disable any firewalls. If it still won't
