@@ -13,6 +13,9 @@ To view the license, click [here.](https://raw.githubusercontent.com/MCMiners9/S
 #### Prerequisites
 [Python 2.7.11](https://www.python.org/downloads/). Python 3.5.1 will not work.
 
+#### Help and FAQ (work in progress)
+To view the FAQ and help, click [here](https://github.com/MCMiners9/Splat-AIO/blob/master/help/faq.md)
+
 #### Usage
 Extract the ZIP file to wherever, then double click into the folder created when extracted, start "Splat-AIO.py" and the rest should be fairly self-explanatory.
 
