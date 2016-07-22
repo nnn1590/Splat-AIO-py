@@ -25,8 +25,7 @@ developed, please fill out [this form](http://goo.gl/forms/pfq6VEpL1M7QbHFi1) or
 
 Q: How could I be of assistance to this project?
 
-A: If you wanna help, thanks! To help, you need to become a beta tester. Go to the link at the very bottom of
-[this page](https://github.com/MCMiners9/Splat-AIO) titled "MCMiners9's and Deck of Noobs's Discord Server to apply.
+A: You can help by forking the repository, then creating a new branch, and making changes. If you believe your changes are beneficial, submit a pull request to our repository. You can also become a beta tester by clicking [here](https://discord.gg/VABPtBg) and asking to become a beta tester for SplatAIO.
 
 #### Updating your IP address in the AIO.
 
