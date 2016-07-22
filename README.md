@@ -12,7 +12,6 @@ To view the license, click [here.](https://raw.githubusercontent.com/MCMiners9/S
 
 #### Prerequisites
 [Python 2.7.11](https://www.python.org/downloads/). Python 3.5.1 will not work.
-[Java](https://java.com/) for Colorizer.
 
 #### Usage
 Extract the ZIP file to wherever, then double click into the folder created when extracted, start "Splat-AIO.py" and the rest should be fairly self-explanatory.
