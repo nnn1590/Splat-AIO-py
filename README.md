@@ -28,3 +28,22 @@ This AIO will automatically check for updates each time it is ran. If an update 
 
 #### Bug Testing
 There is a feature in the AIO that lets you test the newer GUI version of the AIO. Just press E then ENTER to launch it. Report any bugs to the Splatoon Modding Hub and seresaa. [Contact Seresaa](https://github.com/seresaa).
+
+#### Other Links
+[MCMiners9's Website](http://mcminers9site.weebly.com)
+
+[MCMiners9's Email](mailto:mcminers9@gmail.com)
+
+[MCMiners9's Other AIO, still WIP](https://github.com/MCMiners9/Splat-AIO-2)
+
+[Deck of Noobs's Email](mailto:mewtwoconfirmed@gmail.com)
+
+[Splatoon Modding Hub thread on GBATemp](https://gbatemp.net/threads/splatoon-modding-hub.425670/)
+
+[MCMiners9's GBATemp](https://gbatemp.net/members/mcminers9.395133/)
+
+[Deck of Noobs's GBATemp](https://gbatemp.net/members/deck-of-noobs.388277/)
+
+[MCMiners9's and Deck of Noobs's Discord](https://discord.gg/4HdZyct)
+
+[Modding Hub Discord](https://discord.gg/0zs6LjiLmeNI740J)
