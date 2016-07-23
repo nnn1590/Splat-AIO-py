@@ -1,0 +1,2 @@
+-Replaced the old SplatAIO with GUI with a updated one.
+-Added links to the Options menu.
