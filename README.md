@@ -8,7 +8,13 @@
 
 A collection of easy python scripts to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/post-your-wiiu-cheat-codes-here.395443/).
 
+Screenshot of Python AIO:
+
 ![Python SplatAIO](http://i.imgur.com/qNKx5TB.png)
+
+Screenshot of GUI AIO:
+
+![AIO](http://imgur.com/XWYfAvu.png)
 
 If there is something contained in here that shouldn't be, let me know and I'll remove it.
 
