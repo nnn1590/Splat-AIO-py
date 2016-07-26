@@ -1,4 +1,4 @@
-## Splat AIO 2 ([Download](https://github.com/MCMiners9/Splat-AIO-2/blob/master/SplatAIO.exe?raw=true))
+## Splat AIO 2 ([Download](https://github.com/MCMiners9/Splat-AIO/raw/master/SplatAIO-GUI-Edition/SplatAIO.exe))
 
 [This](https://github.com/MCMiners9/Splat-AIO), except more on point. And it doesn't need Python.
 Load Gecko, start your game and go.
