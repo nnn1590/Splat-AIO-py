@@ -59,6 +59,6 @@ There is a feature in the AIO that lets you test the newer GUI version of the AI
 
 [Deck of Noobs's GBATemp](https://gbatemp.net/members/deck-of-noobs.388277/)
 
-[MCMiners9's and Deck of Noobs's Discord](https://discord.gg/4HdZyct)
+[MCMiners9's and Deck of Noobs's Discord](https://discord.gg/NJNaFBn)
 
 [Modding Hub Discord](https://discord.gg/0zs6LjiLmeNI740J)
