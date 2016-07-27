@@ -1,8 +1,6 @@
 ## MCMiners9's and DeckOfNoobs's SplatAIO!
 
-#### Download the GUI AIO by clicking [here!](https://github.com/MCMiners9/Splat-AIO/raw/master/SplatAIO-GUI-Edition/SplatAIO.exe)
-
-#### Download the Python AIO by clicking [here!](https://github.com/MCMiners9/Splat-AIO/raw/master/Splat-AIO.zip)
+#### Download the Python AIO (comes with the GUI AIO inside it!) by [clicking here!](https://github.com/MCMiners9/Splat-AIO/raw/master/Splat-AIO.zip)
 
 ## What is SplatAIO?
 
