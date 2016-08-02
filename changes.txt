@@ -1,1 +1,1 @@
--Added Unused Gear! (and BrawlBox)
+-Preset IPs in IP Scanner should be gone now
