@@ -1,1 +1,5 @@
-The changelog for this file was lost due to late implementation of this changelog.
+-Added an easter egg in the changes section.
+-Thought about asking Deck of Noobs to update but I decided to.
+-Did more random stuff
+-Made an attempt in coding with the newer SplatAIO.
+-Recieved note from Deck of Noobs, saying there's something special planned for this AIO.
