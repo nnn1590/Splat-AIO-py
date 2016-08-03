@@ -13,7 +13,7 @@ Music Randomizer often.
 6. HAVE A WIRELESS INTERNET CONNECTION. WIRED CONNECTIONS CAUSE ISSUES.
 7. ALL MUSIC HAS TO BE IN BFSTM FORMAT! I MIGHT ADD THE MP3/BFSTM CONVERTER AND DIRECTIONS FOR IT SOON!
 
-$$$$ Steps to complete on the Wii U:
+#### Steps to complete on the Wii U:
 1. Open the Internet Browser and go to loadiine.ovh
 2. In Loadiine.ovh, if you are using the dropdown view, choose Cafiine + Kernel from the dropdown. If you are using the list view, I
 believe the correct option is to choose Cafiine.
