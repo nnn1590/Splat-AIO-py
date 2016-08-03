@@ -1,6 +1,6 @@
 ## MCMiners9's and DeckOfNoobs's SplatAIO!
 
-#### Download the Python AIO (comes with the GUI AIO inside it!) by [clicking here!](https://github.com/MCMiners9/Splat-AIO/releases)
+#### We need people to beta test the SplatAIO and make sure it is compatible with Splatoon 2.11! Download the Python AIO (comes with the GUI AIO inside it!) by [clicking here!](https://github.com/MCMiners9/Splat-AIO/releases)
 
 ## What is SplatAIO?
 
