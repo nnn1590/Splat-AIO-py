@@ -1,1 +1,3 @@
-The changelog for this file is not yet available (error 404: not available)
+-Added placeholders for mp3 to BRSTM and BRSTM to BFSTM converters.
+-Added a help link to the main menu.
+-Added a report an issue link to the main menu.
