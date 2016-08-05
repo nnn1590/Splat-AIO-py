@@ -1,1 +1,4 @@
--Removed all converters except for BrawlBox. They took up too much storage.
+-Added just the LoopingAudioConverter. No BRSTMConversionTool for now.
+-Fixed the error that caused your run folder to go missing if you tried updating.
+
+SIDENOTE: It is safe to update to this version.
