@@ -3,4 +3,4 @@
 -Added this changelog into the AIO
 -Moved the Report a issue option into the 2nd menu
 -Scooted the More Menu Options over a little
--Removed the Octohax, as there is no 2.11 Octohax script.
+-Will remove Octohax, as there is no python script for it.
