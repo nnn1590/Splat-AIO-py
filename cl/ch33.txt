@@ -1,3 +1,1 @@
--Added the BRSTMConversionTool
--Removed the folder named LoopingAudioConverters
--Investigating an issue where BrawlBox will crash if the user tries to save a WAV file as a BFSTM file.
+-Removed all converters except for BrawlBox. They took up too much storage.
