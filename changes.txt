@@ -1,3 +1,6 @@
--Added placeholders for mp3 to BRSTM and BRSTM to BFSTM converters.
--Added a help link to the main menu.
--Added a report an issue link to the main menu.
+-Added another menu
+-Added a MP3 to WAV converter, use BrawlBox to convert WAV to BRSTM/BFSTM
+-Added this changelog into the AIO
+-Moved the Report a issue option into the 2nd menu
+-Scooted the More Menu Options over a little
+-Removed the Octohax, as there is no 2.11 Octohax script.
