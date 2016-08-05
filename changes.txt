@@ -1,6 +1,5 @@
 -Added another menu
 -Added a MP3 to WAV converter, use BrawlBox to convert WAV to BRSTM/BFSTM
 -Added this changelog into the AIO
--Moved the Report a issue option into the 2nd menu
--Scooted the More Menu Options over a little
+-Updated the SplatAIO 2 that came with the SplatAIO 1.
 -Will remove Octohax, as there is no python script for it.
