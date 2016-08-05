@@ -1,0 +1,1 @@
+-Fixed a bug where the AIO would crash if the user tried to launch the MP3 to WAV converter.
