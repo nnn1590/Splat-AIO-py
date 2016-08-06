@@ -1,0 +1,25 @@
+gudenaurock - Splatoon Colorizer
+
+Lean - Splathax, 2.10 GeckoMapTester & Amiibohax
+
+Python Scripts - ...Everybody
+
+aracom - Something probably
+
+Chadderz - Gecko dotNET
+
+bkool999 - "Sisterhax". Assuming no one else
+released something similar before that.
+
+OatmealDome - MusicRandomizer
+
+Wireless Network Watcher is copyright of NirSoft
+
+NWPlayer - SARCTools, octohax probably a lot of other
+stuff
+
+Deck of Noobs and MCMiners9 - HUGE thanks for
+picking the Python AIO back up
+
+Everyone else who's been pouring their effort into
+Wii U homebrew
