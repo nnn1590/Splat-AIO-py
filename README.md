@@ -47,7 +47,9 @@ There is a feature in the AIO that lets you test the newer GUI version of the AI
 
 [MCMiners9's Email](mailto:mcminers9@gmail.com)
 
-[MCMiners9's Other AIO, still WIP](https://github.com/MCMiners9/Splat-AIO-2)
+[ConversionTools, another project by MCMiners9](https://github.com/MCMiners9/ConversionTools)
+
+[Wii U Homebrew Launcher, another repository by MCMiners9](https://github.com/MCMiners9/homebrew_wiiu)
 
 [Deck of Noobs's Email](mailto:mewtwoconfirmed@gmail.com)
 
