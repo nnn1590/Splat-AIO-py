@@ -1,4 +1,5 @@
--Added just the LoopingAudioConverter. No BRSTMConversionTool for now.
--Fixed the error that caused your run folder to go missing if you tried updating.
+-Replaced the input messages in the main menu, 2nd menu, options, and tools. They're super funny tbh lol.
+-Thought about why a fake KapuDaKoopa sumbitted a useless pull request.
+-Noticed how there are no Homebrew Launcher scripts. We should probably add that back in.
 
-SIDENOTE: It is safe to update to this version.
+If you can't download this update, visit https://github.com/MCMiners9/Splat-AIO/releases and download the latest Python SplatAIO release.
