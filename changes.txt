@@ -1,3 +1,3 @@
--Added...something.
+allan please add details
 
 If you can't download this update, visit https://github.com/MCMiners9/Splat-AIO/releases and download the latest Python SplatAIO release.
