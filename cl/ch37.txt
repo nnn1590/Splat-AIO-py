@@ -1,1 +1,1 @@
-Error CL-1057: This changelog has been lost.
+-Made a change.
