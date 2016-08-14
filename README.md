@@ -22,7 +22,7 @@ Splat AIO comes with rank/snail/level/money editors, All Gear and All Weapons, [
 To view the license, click [here.](https://raw.githubusercontent.com/MCMiners9/Splat-AIO/master/LICENSE.txt)
 
 #### Prerequisites
-[Python 2.7.11](https://www.python.org/downloads/). Python 3.5.1 will not work. Download Python ONLY IF YOU WANT TO USE THE PYTHON SPLATAIO.
+[Python 2.7.11](https://www.python.org/downloads/). Python 3.5.1 will not work. Download Python ONLY IF YOU WANT TO USE THE PYTHON SPLATAIO. If you want to use the GUI SplatAIO (aka SplatAIO 2) then you need a Windows PC, and it has to have the .NET Framework installed.
 
 #### Help and FAQ (work in progress)
 To view the help guides, [click here](https://github.com/MCMiners9/Splat-AIO/wiki) or [click here](https://github.com/MCMiners9/Splat-AIO/issues) to create an issue. To live chat with me and Deck of Noobs, [click here](https://gitter.im/MCMiners9/Splat-AIO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
