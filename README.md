@@ -1,4 +1,4 @@
-# SplatAIO
+# SplatAIO (MCMiners9 and Deck of Noobs's SplatAIO)
 * [Downloads](https://github.com/MCMiners9/Splat-AIO/releases)
 * [Pull Requests](https://github.com/MCMiners9/Splat-AIO/pulls)
 * [Issues](https://github.com/MCMiners9/Splat-AIO/issues)
