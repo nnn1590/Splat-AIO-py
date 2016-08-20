@@ -4,6 +4,8 @@
 * [Issues](https://github.com/MCMiners9/Splat-AIO/issues)
 * [Wiki](https://github.com/MCMiners9/Splat-AIO/wiki)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/kr1yctor0uns5bax?svg=true)](https://ci.appveyor.com/project/MCMiners9/splat-aio)
+
 ## What is SplatAIO?
 
 A collection of easy python scripts to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/post-your-wiiu-cheat-codes-here.395443/).
