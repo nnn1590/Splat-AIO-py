@@ -1,6 +1,8 @@
-# MCMiners9's and DeckOfNoobs's SplatAIO!
-
-## Download the SplatAIO by [clicking here!](https://github.com/MCMiners9/Splat-AIO/releases)
+# SplatAIO
+* [Downloads](https://github.com/MCMiners9/Splat-AIO/releases)
+* [Pull Requests](https://github.com/MCMiners9/Splat-AIO/pulls)
+* [Issues](https://github.com/MCMiners9/Splat-AIO/issues)
+* [Wiki](https://github.com/MCMiners9/Splat-AIO/wiki)
 
 ## What is SplatAIO?
 
