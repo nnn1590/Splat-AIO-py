@@ -6,6 +6,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kr1yctor0uns5bax?svg=true)](https://ci.appveyor.com/project/MCMiners9/splat-aio)
 
+[![Gitter](https://badges.gitter.im/MCMiners9/Splat-AIO.svg)](https://gitter.im/MCMiners9/Splat-AIO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## What is SplatAIO?
 
 A collection of easy python scripts to handle all python scripts, an attempt to try and put scripts from [Splatoon Modding Hub](https://gbatemp.net/threads/splatoon-modding-hub.425670/) or elsewhere in one tool for everyone to use, as well as a few other useful things. It also tries to support the Homebrew Launcher version of TCPGecko found in the downloads of [this thread](https://gbatemp.net/threads/post-your-wiiu-cheat-codes-here.395443/).
@@ -29,7 +31,7 @@ To view the license, click [here.](https://raw.githubusercontent.com/MCMiners9/S
 [Python 2.7.11](https://www.python.org/downloads/). Python 3.5.1 will not work. Download Python ONLY IF YOU WANT TO USE THE PYTHON SPLATAIO. If you want to use the GUI SplatAIO (aka SplatAIO 2) then you need a Windows PC, and it has to have the .NET Framework installed.
 
 #### Help and FAQ (work in progress)
-To view the help guides, [click here](https://github.com/MCMiners9/Splat-AIO/wiki) or [click here](https://github.com/MCMiners9/Splat-AIO/issues) to create an issue. To live chat with me and Deck of Noobs, [click here](https://gitter.im/MCMiners9/Splat-AIO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+To view the help guides, [click here](https://github.com/MCMiners9/Splat-AIO/wiki) or [click here](https://github.com/MCMiners9/Splat-AIO/issues) to create an issue.
 
 #### Usage
 Extract the ZIP file to wherever, then double click into the folder created when extracted, start "Splat-AIO.py" and the rest should be fairly self-explanatory. If you want to use the other SplatAIO (the non-python one) then go into the GUI SplatAIO folder above and download the EXE file or [click here](https://github.com/MCMiners9/Splat-AIO/releases) then scroll down until you see the latest SplatAIO 2 release.
